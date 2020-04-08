@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <!-- colors for button style -->
+    <color name="gradient_start_colour">#4c84ff</color>
+    <color name="gradient_end_colour">#10a3fe</color>
+
+    <!-- color for tab and screen text -->
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+    <!-- color of the sliding dots -->
+    <color name="active_dots">#fffafa</color>
+    <color name="inactive_dots">#83878b</color>
+</resources>
